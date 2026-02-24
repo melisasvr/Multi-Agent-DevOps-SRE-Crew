@@ -1,0 +1,6 @@
+crewai>=0.80
+crewai-tools
+langchain-groq
+PyGitHub
+python-dotenv
+streamlit
